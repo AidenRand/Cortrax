@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Cortrax
-- 👀 I’m interested in physics, Math, cosmology, astronomy, Space Trave, and reading books
+- 👋 Hi, I’m Aiden Rand
+- 👀 I’m interested in physics, Math, cosmology, astronomy, Space Travel, and reading books
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me AidenRphotos@gmail.com
+- 📫 You can reach me at AidenRphotos@gmail.com
 
 <!---
 Cortrax/Cortrax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
