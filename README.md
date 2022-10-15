@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aiden Rand
-- 👀 I’m interested in physics, Math, cosmology, astronomy, Space Travel, and reading books
+- 👀 I’m interested in physics, math, cosmology, astronomy, space Travel, and reading books
 - 🌱 I’m currently learning JavaScript
 - 📫 You can reach me at AidenRphotos@gmail.com
 
