@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cortrax
-- 👀 I’m interested in physics, cosmology, astronomy, reading books
+- 👀 I’m interested in physics, Math, cosmology, astronomy, Space Trave, and reading books
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me AidenRphotos@gmail.com
 
