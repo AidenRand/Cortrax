@@ -1,7 +1,7 @@
 - Hi, I’m Aiden Rand
 - I’m interested in physics, math, cosmology, astronomy, space travel, and reading books
-- I would like to eventually get into machine learning and A.I 
-- I’m currently learning JavaScript
+- I enjoy machine learning
+- I’m currently learning Python
 - You can reach me at AidenRphotos@gmail.com
 
 <!---
