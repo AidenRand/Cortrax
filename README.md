@@ -1,6 +1,6 @@
 - Hi, I’m Aiden Rand
 - I’m interested in coding, physics, math, cosmology, astronomy, space travel, and reading books
-- I enjoy machine learning
+- I enjoy making stuff
 - I’m currently learning C++
 - You can reach me at AidenRandDev@gmail.com
 
